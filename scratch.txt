@@ -1,0 +1,14 @@
+resume classification  C:\Users\Lenovo\PycharmPro\resume classification
+  venv  library root
+    etc
+    Lib
+    Scripts
+    share
+    .gitignore
+    pyvenv.cfg
+  app.py
+  label_encoder1.pkl
+  resume_classification_pipeline1.pkl
+External Libraries
+Scratches and Consoles
+docx
